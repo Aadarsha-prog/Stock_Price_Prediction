@@ -1,7 +1,5 @@
 # Stock_Price_Prediction
 This is my College Project assigned by my AI professor.
-# Stock Price Prediction
-
 This project uses a LSTM neural network to predict stock prices based on historical data. The app is built using Streamlit for the frontend.
 
 ## Features
